@@ -13,12 +13,9 @@ Ideally you have some coding experience, so:
 - You're not scared of terminal, it's just a tool all in all. [Hak5's "Terminal 101" is good resource](https://www.youtube.com/watch?v=b5NmtmNwMgU)
 
 ## Some things need to be installed first
-In order to run the course You need to have these folks installed:
-  - [GIT](), which makes it possible to fix thing up, if you blow something up (which is highly encouraged!)
-  - [Docker](https://docs.docker.com/install/), which makes it possible to build every example in this course, and makes sure, that everything _just works_.
-  - [Docker Compose](https://github.com/Yelp/docker-compose/blob/master/docs/install.md), which makes it possible to run every example and exercise with just one command
-  - **Editor of our choice**. If you don't have any favourites, [Visual Studio Code](https://code.visualstudio.com/) is _more than good enough_ for us.
+The beginnings are always most boring, but it's something that is needed to be done.
 
+Make sure you have all the [prerequirements](./docs/Prerequisites.md) on your machine.
 
 If You're doing the boring stuff anyway, You can also get **useful stuff** in one sweel swoop, or come back later:
   - [**N**ode **V**ersion **M**anager](https://github.com/nvm-sh/nvm#installation-and-update). 
@@ -30,8 +27,7 @@ The rule is simple:
 > If you don't know what it does, you don't need it.
 
 ## Before you begin...
-
-### Don't be scared to **BREAK THINGS**
+#### Don't be scared to **BREAK THINGS**
 Experimenting is meant to be easy. When you run the code, server watches for file changes, so the only thing you need to see results is to save the file!
 
 Remember, **the more you blow up, the more you learn**. There is nothing to worry about- nothing bad will happen, because everything can be easily revived.
@@ -39,15 +35,15 @@ Remember, **the more you blow up, the more you learn**. There is nothing to worr
 In case the things got screwed up and you don't know what to do:
 **You can always reach out for the ["replay" command]()**
 
-### Don't forget, that **YOU** are teaching yourself
+#### Don't forget, that **YOU** are teaching yourself
 Typically on a course you need to listen to some boring teacher for some time, and then start to code. Here, **you are both the teacher and the pupil** in the same time. That means, that the materials are only a blurry direction for your journey. But the last word is always **yours**.
 
 Find something boring? Feel that you already know something? Something is too hard? Maybe you have just a "bad day"...
 
 Skip modules, change the order, google the things up, tackle with the examples, take breaks. You know better what work best for you. :)
 
-## There are no limits, _but_...
-Some things needed to written, in order to examples _just work_ for you. There are some meta file in the codebade, that you don't need to care about.
+#### There are no limits, _but_...
+Some things needed to written, in order to code _just works_ for you. There are some meta file in the codebade, that you don't need to care about.
 
 > Everything that is not relevant for you as a learner is stored in folders, which `_startsWithUnderscore`. 
 
