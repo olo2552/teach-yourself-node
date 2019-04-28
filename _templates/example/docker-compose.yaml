@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  example:
+    build:
+      dockerfile: ./_config/Dockerfile
+      context: ./
+    volumes:
+      - ./src:/app/src
+      - ./_config:/app
+
+    ports:
+      - "0.0.0.0:3000:3000"
