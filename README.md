@@ -17,14 +17,7 @@ The beginnings are always most boring, but it's something that is needed to be d
 
 Make sure you have all the [prerequirements](./docs/Prerequisites.md) on your machine.
 
-If You're doing the boring stuff anyway, You can also get **useful stuff** in one sweel swoop, or come back later:
-  - [**N**ode **V**ersion **M**anager](https://github.com/nvm-sh/nvm#installation-and-update). 
-  If you want to have NodeJS on your machine. NVM keeps your Node up-to-date
-  - [Chromium](https://www.chromium.org/)\-based browser might be use useful- it has very good developer tools, which you can link with Node.
-  - [Postman](https://www.getpostman.com/) can help you easily test your Node server
-
-The rule is simple:
-> If you don't know what it does, you don't need it.
+You might also take a quick glance at [usage with GIT]() in order to have full experience.
 
 ## Before you begin...
 #### Don't be scared to **BREAK THINGS**
