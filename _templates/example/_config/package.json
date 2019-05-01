@@ -4,7 +4,7 @@
   "description": "Example template for teach-yourself-node",
   "main": "./src/index.js",
   "scripts": {
-    "start": "nodemon --inspect=0.0.0.0 ./src/index.js"
+    "start": "echo 'pwd' && pwd && echo 'ls' && ls && nodemon --inspect=0.0.0.0 ./src/index.js"
   },
   "repository": {
     "type": "git",

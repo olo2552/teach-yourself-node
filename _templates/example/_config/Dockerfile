@@ -1,9 +1,10 @@
 FROM node:12.0.0
 WORKDIR /app
 COPY ./_config/package*.json ./
-RUN ls
-RUN npm ci
-COPY ./src/ ./
-RUN ls
+COPY ./src ./src
+RUN npm install
 EXPOSE 3000
-CMD [ "npm", "start" ]
+RUN ["ls"]
+RUN ["ls", "node_modules/.bin"]
+RUN ["pwd"]
+CMD ["npm", "start"]
