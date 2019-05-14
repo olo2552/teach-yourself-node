@@ -10,6 +10,6 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, hostname, () => {
-    console.log("------")
+    console.log("------dupa1")
     console.log(`Server is running. Check localhost:${port}`)
 });
