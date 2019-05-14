@@ -5,7 +5,7 @@ As it is interactive course, you need to have some stuff on your computer in ord
 - [GIT](), which makes it possible to fix thing up, if you blow something up (which is highly encouraged!)
 - [Docker](https://docs.docker.com/install/), which makes it possible to build every example in this course, and makes sure, that everything _just works_.
 - [Docker Compose](https://github.com/Yelp/docker-compose/blob/master/docs/install.md), which makes it possible to run every example and exercise with just one command
-- **Editor of our choice**. If you don't have any favourites, [Visual Studio Code](https://code.visualstudio.com/) is _more than good enough_ for us.
+- **Editor of our choice**. If you don't have any favourites, [Visual Studio Code](https://code.visualstudio.com/) is a great starter.
 
 ## These might help
 If You're doing the boring stuff anyway, You can also get **useful stuff** at one go. Or if you're getting bored, feel free to come back later.
